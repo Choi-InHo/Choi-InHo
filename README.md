@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @Choi-InHo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+최인호(1997년생)
+한성대학교 IT융합공학부 졸업(머신러닝, IoT)
+
+희망 직무 : Back-End 개발자
+사용 기술 : Java, Spring boot, Spring, MySql, PostgreSQL, Redis, JPA, MyBatis, Docker...
+협업 기술 : Github, notion ...
+
+연락처 :
+-010.7233.1174
+-cih8400@naver.com
+
+개발 블로그 : 
+https://velog.io/@rising_developer/posts
+
+프로젝트 : 
+- 부동산 비대면 프로젝트(웹개발)
+- 은행 플랫폼 프로젝트(웹개발)
+- simpleSns(웹개발)
+
+
+
+
+
 
 <!---
 Choi-InHo/Choi-InHo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
