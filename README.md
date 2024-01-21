@@ -1,13 +1,15 @@
 최인호(1997년생)
 한성대학교 IT융합공학부 졸업(머신러닝, IoT)
 
-희망 직무 : Back-End 개발자
-사용 기술 : Java, Spring boot, Spring, MySql, PostgreSQL, Redis, JPA, MyBatis, Docker...
-협업 기술 : Github, notion ...
+br
+
+- 희망 직무 : Back-End 개발자
+- 사용 기술 : Java, Spring boot, Spring, MySql, PostgreSQL, Redis, JPA, MyBatis, Docker...
+- 협업 기술 : Github, notion ...
 
 연락처 
-Phone : 010.7233.1174
-Email : cih8400@naver.com
+- Phone : 010.7233.1174
+- Email : cih8400@naver.com
 
 개발 블로그 : 
 https://velog.io/@rising_developer/posts
