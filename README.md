@@ -5,9 +5,9 @@
 사용 기술 : Java, Spring boot, Spring, MySql, PostgreSQL, Redis, JPA, MyBatis, Docker...
 협업 기술 : Github, notion ...
 
-연락처 :
--010.7233.1174
--cih8400@naver.com
+연락처 
+Phone : 010.7233.1174
+Email : cih8400@naver.com
 
 개발 블로그 : 
 https://velog.io/@rising_developer/posts
