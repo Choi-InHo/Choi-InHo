@@ -1,8 +1,6 @@
 최인호(1997년생)
 한성대학교 IT융합공학부 졸업(머신러닝, IoT)
 
-br
-
 - 희망 직무 : Back-End 개발자
 - 사용 기술 : Java, Spring boot, Spring, MySql, PostgreSQL, Redis, JPA, MyBatis, Docker...
 - 협업 기술 : Github, notion ...
