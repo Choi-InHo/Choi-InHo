@@ -21,6 +21,10 @@ https://velog.io/@rising_developer/posts
   
 - simpleSns(웹개발)
   https://github.com/Choi-InHo/snsProject
+
+
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cih8400)](https://solved.ac/cih8400)
+  
   
 
 
