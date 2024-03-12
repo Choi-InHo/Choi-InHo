@@ -2,8 +2,10 @@
 한성대학교 IT융합공학부 졸업(머신러닝, IoT)
 
 - 희망 직무 : Back-End 개발자
-- 사용 기술 : Java, Spring boot, Spring,Kafka, MySql, PostgreSQL, Redis, JPA, MyBatis, Docker...
+- 사용 기술 : Java, Spring boot, Spring, Kafka, JPA, MyBatis, Docker, 웹소켓...
 - 협업 기술 : Github, notion ...
+- 배포 기술 : Ec2, Jenkins
+- DB : MySql, MongoDB, PostgreSQL, redis, DynamoDB
 
 연락처 
 - Phone : 010.7233.1174
