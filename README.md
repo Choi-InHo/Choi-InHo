@@ -7,6 +7,7 @@
 - 협업 기술 : Github, notion ...
 - 배포 기술 : Ec2, Jenkins
 - DB : MySql, MongoDB, PostgreSQL, redis, DynamoDB
+- 자격 사항 : 정보처리기시(23.06), 데이터분석준전문가(23.06)
 
 연락처 
 - Phone : 010.7233.1174
