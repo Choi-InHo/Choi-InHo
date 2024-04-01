@@ -8,6 +8,7 @@
 - 배포 기술 : Ec2, Jenkins
 - DB : MySql, MongoDB, PostgreSQL, redis, DynamoDB
 - 자격 사항 : 정보처리기시(23.06), 데이터분석준전문가(23.06)
+- 어학 사랑 : Toeic Speaking(IH)
 
 연락처 
 - Phone : 010.7233.1174
