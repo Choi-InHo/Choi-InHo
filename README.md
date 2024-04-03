@@ -2,7 +2,7 @@
 한성대학교 IT융합공학부 졸업(머신러닝, IoT)
 현재는 웹 개발 공부중입니다.
 
-- 희망 직무 : Back-End 개발자
+- 희망 직무 : Back-End 개발자, 전산직
 - 사용 기술 : Java, Spring boot, Spring, Kafka, JPA, MyBatis, Docker, 웹소켓...
 - 협업 기술 : Github, notion ...
 - 배포 기술 : Ec2, Jenkins
